@@ -1,0 +1,11 @@
+id_pasien,nama,umur,jenis_kelamin,poli,diagnosa,lama_rawat,biaya,status_pulang,tanggal_masuk
+1,Embun Pagi,7,Perempuan,umum,Demam Berdarah,7,2500000,sembuh,10/19/2025
+2,Ahmad Dahlan,60,laki-laki,Penyakit Dalam,Diabetes,7,3000000,sembuh,2025-9-1
+3,Novita Sari,55,Perempuan,Jantung dan Pembuluh Darah,Jantung,7,3500000,rujuk,2025-9-5
+4,Anita Diana,45,Perempuan,Umum,Demam Berdarah,3,2500000,sembuh,2025-9-10
+5,Aurelia Amalia,25,Perempuan,Bedah,cidera,10,5000000,rujuk,2025-9-12
+6,Rifky Abdillah,14,Laki-laki,umum,Demam Berdarah,3,2500000,sembuh,2025-9-16
+7,Azzura Ameena,8,Perempuan,umum,Demam Berdarah,3,2500000,sembuh,2025-9-17
+8,Teddy Irawan,35,Laki-laki,Penyakit Dalam,Diabetes,7,3000000,sembuh,2025-9-17
+9,Gunawan,45,Laki-laki,Jantung dan Pembuluh Darah,Jantung,7,3500000,sembuh,2025-9-19
+10,Bobby Nasution,38,Laki-laki,Saraf,Gejala Stroke,7,3500000,rujuk,2025-9-20
